@@ -1,0 +1,20 @@
+{"question":"¿Para qué sirve el fichero Directory.Packages.props en NuGet?","expectedSlugs":["2026-09-13-central-package-management-nuget"],"answerable":true}
+{"question":"¿Cómo configuro GitVersion para que calcule la versión según mi flujo de git?","expectedSlugs":["2026-09-21-gitversion-versionado-semantico-dotnet"],"answerable":true}
+{"question":"¿Cómo evito que un commit con mal formato llegue al repositorio usando Husky?","expectedSlugs":["2026-09-19-commits-convencionales-dotnet"],"answerable":true}
+{"question":"¿Cómo creo un servidor MCP en .NET con el SDK oficial?","expectedSlugs":["2026-08-15-mcp-server-sdk-dotnet"],"answerable":true}
+{"question":"¿Cómo expongo la documentación de mi API con Scalar en una Minimal API?","expectedSlugs":["2026-09-25-openapi-scalar-minimal-apis"],"answerable":true}
+{"question":"¿Puedo versionar una API con MapGroup sin instalar Asp.Versioning?","expectedSlugs":["2026-09-28-versionado-mapgroup-asp-versioning"],"answerable":true}
+{"question":"¿Cómo devuelvo errores de validación con ProblemDetails en Minimal APIs?","expectedSlugs":["2026-09-24-validacion-errores-minimal-apis"],"answerable":true}
+{"question":"¿Qué son los primary constructors en C# y se pueden usar fuera de los records?","expectedSlugs":["2026-01-10-primary-constructors-csharp"],"answerable":true}
+{"question":"¿Cómo extraigo una base de datos SQLite de un móvil Android?","expectedSlugs":["2018-06-24-extraer-bbdd-sqlite-de-terminal-android"],"answerable":true}
+{"question":"¿Cómo se usa Firebase Remote Config en Xamarin Forms?","expectedSlugs":["2019-12-17-firebase-remote-config-en-xamarin-forms","2019-12-17-firebase-remote-config-in-xamarin-forms"],"answerable":true}
+{"question":"¿Para qué sirve PKCE en OAuth 2.1?","expectedSlugs":["2026-08-17-oauth-oidc-keycloak-entra-id"],"answerable":true}
+{"question":"¿Cómo configuro HTTPS en una WebApi con un certificado de GoDaddy?","expectedSlugs":["2016-11-05-https-en-webapi"],"answerable":true}
+{"question":"¿Cómo hago que los warnings rompan la compilación en toda la solución?","expectedSlugs":["2026-09-14-estandares-lenguaje-calidad-dotnet","2026-09-12-directory-build-props-contrato-calidad"],"answerable":true}
+{"question":"¿Cómo hago cumplir en CI las normas de commits y de calidad de una solución .NET?","expectedSlugs":["2026-09-16-hacer-cumplir-normas-dotnet-github-actions","2026-09-19-commits-convencionales-dotnet"],"answerable":true}
+{"question":"¿Cómo protejo microservicios con Keycloak y cómo se traduce a Entra ID?","expectedSlugs":["2026-08-18-microservicios-oauth-keycloak-lab","2026-08-17-oauth-oidc-keycloak-entra-id"],"answerable":true}
+{"question":"¿Qué dice el blog sobre GraphQL?","expectedSlugs":[],"answerable":false}
+{"question":"¿Cómo despliego mi API con Terraform en AWS?","expectedSlugs":[],"answerable":false}
+{"question":"¿Cómo configuro Redis como caché distribuida entre dos instancias de mi API?","expectedSlugs":[],"answerable":false}
+{"question":"What is the GitVersion.yml file for?","expectedSlugs":["2026-09-21-gitversion-versionado-semantico-dotnet"],"answerable":true}
+{"question":"¿Qué hace el atributo ObservableProperty del Community Toolkit?","expectedSlugs":["2024-06-11-maui-mvvm-community-toolkit"],"answerable":true}

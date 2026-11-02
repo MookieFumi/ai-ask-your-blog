@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\AskYourBlog.Api\AskYourBlog.Api.csproj" />
+    <ProjectReference Include="..\..\src\AskYourBlog.Evaluation\AskYourBlog.Evaluation.csproj" />
   </ItemGroup>
 
 </Project>
