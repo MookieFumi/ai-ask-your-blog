@@ -8,6 +8,7 @@ builder.Services.AddRag(builder.Configuration);
 var app = builder.Build();
 app.MapDefaultEndpoints();
 app.MapAsk();
+app.MapSearch();
 app.MapIngest(app.Configuration);
 
 app.Run();
