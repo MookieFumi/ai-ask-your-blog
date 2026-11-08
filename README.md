@@ -8,7 +8,7 @@ Stack: .NET 10, Aspire, PostgreSQL + pgvector, Microsoft.Extensions.AI, local Ol
 
 - `src/AskYourBlog.AppHost`: Aspire AppHost (Postgres with pgvector, persistent volume).
 - `src/AskYourBlog.Api`: ingestion and chunking (retrieval and answering come next).
-- `tests/AskYourBlog.Tests`: unit tests.
+- `src/AskYourBlog.Tests`: unit tests.
 
 ## Posts source
 
