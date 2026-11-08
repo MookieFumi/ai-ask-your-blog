@@ -4,8 +4,6 @@
     <Project Path="src/AskYourBlog.AppHost/AskYourBlog.AppHost.csproj" />
     <Project Path="src/AskYourBlog.Evaluation/AskYourBlog.Evaluation.csproj" />
     <Project Path="src/AskYourBlog.ServiceDefaults/AskYourBlog.ServiceDefaults.csproj" />
-  </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/AskYourBlog.Tests/AskYourBlog.Tests.csproj" />
+    <Project Path="src/AskYourBlog.Tests/AskYourBlog.Tests.csproj" />
   </Folder>
 </Solution>
